@@ -37,6 +37,7 @@ const Footer = () => {
             </ul>
             </div>
             </section>
+           <div>Developed by &copy;John Mark@2024</div>
         </footer>
     )
 }
